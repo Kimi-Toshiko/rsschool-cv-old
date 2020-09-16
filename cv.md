@@ -46,3 +46,19 @@ Open-minded person, who is ready to try myself in absolutely new sphere. Non-con
 * Implement moder techniques to make faster performance;
 * Ensure everything works properly;
 * Fulfil all requirements, presented by the customer;
+
+
+## Education:
+In progress Bachelor Degree: **Business Information Systems** — 2018-2022
+
+**Westminster International University in Tashkent**, Tashkent
+
+
+## Certificates:
+Coursera: [HTML5](https://www.coursera.org/account/accomplishments/verify/CA346KZN32GP), [CSS3](https://www.coursera.org/account/accomplishments/verify/ZYZ8FPMGS7GA), [Javascript](https://www.coursera.org/account/accomplishments/verify/7XAX7DDD48VV), [Responsive Design](https://www.coursera.org/account/accomplishments/verify/9BVJV53FV3UV)
+
+
+## Code Examples:
+**Online Pizza Ordering System:** [code(GitHub)](https://github.com/Kimi-Toshiko/Kimi-s-Pizza), [Website Preview](https://kimis-pizza-00008449.firebaseapp.com/)
+
+**Photogallery:** [code(GitHub)](https://github.com/Kimi-Toshiko/Photogallery-Purify), [Website Preview](https://photo-gallery-purify.firebaseapp.com/)
