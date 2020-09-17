@@ -2,17 +2,17 @@
 ---
 > ## Main Information:
 > ### Contacts
-> Phone Number: + 998 (90) 985-76-25
-> Email: karinakiseleva024@gmail.com, kimitoshiko@gmail.com
+> Phone Number: + 998 (90) 985-76-25 @cr
+> Email: karinakiseleva024@gmail.com, kimitoshiko@gmail.com @cr
 > Address: Uzbekistan, Tashkent, Uchtepa district, block 11, house 51, room 34
 > ### Languages
-> Russian — Native Speaker
-> English — Upper-Intermediate (B2)
-> Spanish — Beginner
-> Japanese — Beginner
+> Russian — Native Speaker @cr
+> English — Upper-Intermediate (B2) @cr
+> Spanish — Beginner @cr
+> Japanese — Beginner @cr
 > Korean — Beginner
 > ### Computer Languages
-> Languages: HTML5(95%), CSS(90%), JavaScript (60%), C# (10%)
+> Languages: HTML5(95%), CSS(90%), JavaScript (60%), C# (10%) @cr
 > Front-End Web Development Libraries: Bootstrap (70%), jQuery (60%)
 
 ## Personal Statement:
@@ -28,7 +28,7 @@ Open-minded person, who is ready to try myself in absolutely new sphere. Non-con
 * Fully immersed in the task given;
 
 ## Experience:
-> **Accounting Assistant** - 06/2019 up until now
+> **Accounting Assistant** - 06/2019 up until now @cr
 > **Medical Centre**, Tashkent
 
 * Maintain the record of all payments;
@@ -36,7 +36,7 @@ Open-minded person, who is ready to try myself in absolutely new sphere. Non-con
 * Keep track of tender results and inform chief accountant about them;
 * Keep track of personnel flow: newcomers. leavers, holiday people, people with sick-list;
 
-> **English Language Tutor** - 08/2019 - 08/2020
+> **English Language Tutor** - 08/2019 - 08/2020 @cr
 > **Individual trainings at home**, Tashkent
 
 * Clearly explain the new material;
@@ -44,7 +44,7 @@ Open-minded person, who is ready to try myself in absolutely new sphere. Non-con
 * Provide a pupil with all the necessary materials;
 * Make sure the material is fully understood and 'digested' by the pupil;
 
-> **Front-End Web Developer (Freelance)** - 06/2020 - 06/2020
+> **Front-End Web Developer (Freelance)** - 06/2020 - 06/2020 @cr
 > **Gulnaz B.**, India
 
 * Create an innovative design, which the customer will be fully satisfied with;
@@ -54,8 +54,7 @@ Open-minded person, who is ready to try myself in absolutely new sphere. Non-con
 
 
 ## Education:
-In progress Bachelor Degree: **Business Information Systems** — 2018-2022
-
+In progress Bachelor Degree: **Business Information Systems** — 2018-2022 @cr
 **Westminster International University in Tashkent**, Tashkent
 
 
