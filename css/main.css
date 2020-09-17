@@ -24,6 +24,14 @@ h1, h2 {
     font-family: var(--heading-font);
 }
 
+h2 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
 header {
     background-color: #fff;
     position: fixed;
@@ -48,11 +56,11 @@ header {
 }
 
 .phone {
-    width: 180px;
+    width: 220px;
 }
 
 .email {
-    width: 407px;
+    width: 500px;
 }
 
 .phone a, .email a {
