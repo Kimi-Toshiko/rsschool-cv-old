@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Titillium+Web:wght@300;400;600&display=swap');
+
+:root {
+    --pink: #ffb6c1;
+    --blue: #6495ed;
+    --heading-font: 'Francois One', sans-serif;;
+    --main-font: 'Titillium Web', sans-serif;;
+    --light: 300;
+    --regular: 400;
+    --bold: 600;
+}
+
+html {
+    font-family: var(--main-font);
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    font-family: var(--heading-font);
+}
