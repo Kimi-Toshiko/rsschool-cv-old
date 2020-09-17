@@ -58,6 +58,7 @@ header {
 .phone a, .email a {
     color: #000;
     text-decoration: none;
+    transition: 0.25s;
 }
 
 .link-icon i{    
@@ -69,4 +70,8 @@ header {
     background-clip: text;
    -webkit-text-fill-color:transparent;
    font-size: 1.5rem;
+}
+
+.phone a:hover, .email a:hover {
+    color: #808080;
 }
