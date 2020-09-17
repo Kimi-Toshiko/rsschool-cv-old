@@ -29,7 +29,6 @@ Open-minded person, who is ready to try myself in absolutely new sphere. Non-con
 
 ## Experience:
 > **Accounting Assistant** - 06/2019 up until now
-
 > **Medical Centre**, Tashkent
 
 * Maintain the record of all payments;
@@ -38,7 +37,6 @@ Open-minded person, who is ready to try myself in absolutely new sphere. Non-con
 * Keep track of personnel flow: newcomers. leavers, holiday people, people with sick-list;
 
 > **English Language Tutor** - 08/2019 - 08/2020
-
 > **Individual trainings at home**, Tashkent
 
 * Clearly explain the new material;
@@ -47,7 +45,6 @@ Open-minded person, who is ready to try myself in absolutely new sphere. Non-con
 * Make sure the material is fully understood and 'digested' by the pupil;
 
 > **Front-End Web Developer (Freelance)** - 06/2020 - 06/2020
-
 > **Gulnaz B.**, India
 
 * Create an innovative design, which the customer will be fully satisfied with;
