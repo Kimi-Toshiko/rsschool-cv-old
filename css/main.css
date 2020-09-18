@@ -370,6 +370,10 @@ header {
     margin: 7rem auto;
 }
 
+.code-examples h2 {
+    margin-bottom: -1rem;
+}
+
 .code-examples table {
     width: 100%;
 }
@@ -412,4 +416,22 @@ header {
     -moz-background-clip: text;
     background-clip: text;
    -webkit-text-fill-color:transparent;
+}
+
+.hobbies-interests {
+    width: 90%;
+    margin: 7rem auto;
+}
+
+.hobbies-interests p {
+    line-height: 2rem;
+    background-color: #fff;
+    padding: 0 .2rem;
+    background: linear-gradient(180deg, #ffe2e6 0%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 100%);
+}
+
+.hobbies-interests p::first-letter {
+    color: var(--blue);
+    font-size: 2rem;
+    font-weight: var(--bold);
 }
