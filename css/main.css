@@ -323,7 +323,7 @@ header {
 }
 
 .cert-wrapper {
-    background-color: rgb(100, 149, 237, .3);
+    background-color: rgba(100, 149, 237, .3);
     padding: 2rem;
     height: 60%;
 }
@@ -363,4 +363,53 @@ header {
 
 .cert-wrapper > p > a:hover {
     color: #313758;
+}
+
+.code-examples {
+    width: 90%;
+    margin: 7rem auto;
+}
+
+.code-examples table {
+    width: 100%;
+}
+
+.code-examples thead tr th {
+    padding: 2rem;
+    font-size: 1.2rem;
+}
+
+.code-examples tbody tr td {
+    padding: 2rem 2rem 2rem 2rem;
+    text-align: center;
+    font-size: 3.2rem;
+}
+
+.code-examples tbody tr td a {
+    color: #333333;
+    transition: .3s;
+}
+
+.row-header {
+    padding-left: 4rem !important;
+    font-size: 1.2rem !important;
+    text-align: left !important;
+}
+
+.link-1 {
+    background-color:  rgba(255, 182, 193, .3);
+}
+
+.link-2 {
+    background-color:  rgba(100, 149, 237, .3);
+}
+
+.hover-link a:hover {
+    background:-moz-linear-gradient(139deg, var(--pink) 0%, var(--blue) 100%); 
+    background: -webkit-linear-gradient(139deg, var(--pink) 0%, var(--blue) 100%); 
+    background: linear-gradient(139deg, var(--pink) 0%, var(--blue) 100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+   -webkit-text-fill-color:transparent;
 }
