@@ -237,3 +237,25 @@ header {
 .lang {
     font-weight: var(--bold);
 }
+
+.skill-highlights {
+    margin: 5rem auto;
+    width: 90%;
+}
+
+.skills {
+    margin-top: 3rem;
+    padding: 2rem 6rem;
+    border: 10px solid;
+    border-image-source:-moz-linear-gradient(139deg, var(--pink) 0%, var(--blue) 100%); 
+    border-image-source: -webkit-linear-gradient(139deg, var(--pink) 0%, var(--blue) 100%); 
+    border-image-source: linear-gradient(139deg, var(--pink) 0%, var(--blue) 100%);
+    border-image-slice: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.list-dots li {
+    list-style-type: disc;
+}
