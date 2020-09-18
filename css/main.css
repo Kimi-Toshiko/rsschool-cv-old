@@ -302,3 +302,65 @@ header {
     text-align: left;
     margin-top: 2rem;
 }
+
+.academic {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin: 8rem auto;
+}
+
+.academic hr {
+    transform: scale(1.1);
+}
+
+.education {
+    width: 45%;
+}
+
+.certificates {
+    width: 48%;
+}
+
+.cert-wrapper {
+    background-color: rgb(100, 149, 237, .3);
+    padding: 2rem;
+    height: 60%;
+}
+
+.edu-wrapper {
+    background-color: rgba(255, 182, 193, .3);
+    padding: 2rem;
+    height: 60%;
+}
+
+.acad-wrapper p {
+    margin-bottom: 2rem;
+}
+
+.acad-wrapper > a {
+    display: block;
+    margin: 0 auto;
+    width: 38.8vw;
+    height: auto;
+    text-align: center;
+}
+
+.acad-wrapper > a img {
+    width: 34vw;
+}
+
+.acad-wrapper > p > a {
+    text-decoration: none;
+    color: #000;
+    font-weight: var(--bold);
+    transition: .25s;
+}
+
+.edu-wrapper > p > a:hover {
+    color: #5f2c34;
+}
+
+.cert-wrapper > p > a:hover {
+    color: #313758;
+}
