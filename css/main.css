@@ -454,7 +454,7 @@ footer {
     display: flex;
     flex-direction: row;
     width: 50%;
-    margin: 0 auto;
+    margin: 50px auto 10px auto;
     justify-content: space-between;
 }
 

@@ -12,7 +12,7 @@
 > Japanese — Beginner <br />
 > Korean — Beginner
 > ### Computer Languages
-> Languages: HTML5(95%), CSS(90%), JavaScript (60%), C# (10%) <br />
+> Languages: HTML5(95%), CSS(90%), JavaScript (60%), C# (30%), Java (10%) <br />
 > Front-End Web Development Libraries: Bootstrap (70%), jQuery (60%)
 
 ## Personal Statement:
